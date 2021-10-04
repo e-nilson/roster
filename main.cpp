@@ -5,7 +5,6 @@ int main()
 {    
     cout << "Scripting and Programming - Applications - C867" << endl;
     cout << "Coded in C++" << endl;
-    cout << "Student ID: 000677526" << endl;
     cout << "Name: Erik Nilson" << endl;
     cout << endl;
     cout << endl;
